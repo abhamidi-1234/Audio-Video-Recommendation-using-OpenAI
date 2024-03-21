@@ -6,4 +6,6 @@ Audio streaming services are becoming increasingly popular, and the ability to r
 
 This audio recommendation system uses Python, OpenAI Whisper and Pinecone Vector Database.
 
+## Architecture
+
 ![Img](https://github.com/abhamidi-1234/Audio-Video-Recommendation-using-OpenAI/blob/main/Capture3.PNG)
